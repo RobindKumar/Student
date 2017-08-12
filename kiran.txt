@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 68CE-BC99
+
+ Directory of C:\laragon\www\practice
+
+08/12/2017  11:18 AM    <DIR>          .
+08/12/2017  11:18 AM    <DIR>          ..
+08/12/2017  11:18 AM                 0 kiran.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  30,142,017,536 bytes free
